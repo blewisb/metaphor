@@ -1,0 +1,14 @@
+uuid: d548ac62-4053-4112-93c8-0372cf5c40f4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - bbrown@masterworks.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
